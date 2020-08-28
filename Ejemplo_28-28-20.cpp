@@ -1,3 +1,7 @@
+// Primer Programa ejemplo c++
+/*
+  comando comentario varias lineas 
+*/
 #include <iostream>
 
 int main(void) 
